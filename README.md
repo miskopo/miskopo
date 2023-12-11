@@ -3,7 +3,12 @@
 ###
 
 <div align="center">
+  <b>Congratulations!</b>
+  <br>
+  You are
   <img src="https://profile-counter.glitch.me/miskopo/count.svg?"  />
+  th visitor! <br>
+  However, there is no prize, I am afraid.
 </div>
 
 ###
