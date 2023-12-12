@@ -5,7 +5,7 @@
 <div align="center">
   <b>Congratulations!</b>
   <br>
-  You are
+  You are the
   <img src="https://profile-counter.glitch.me/miskopo/count.svg?"  />
   th visitor! <br>
   However, there is no prize, I am afraid.
