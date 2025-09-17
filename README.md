@@ -1,21 +1,5 @@
 <h1 align="center">Hello there, I'am Michal [maɪkəl]!</h1>
 
-###
-
-<div align="center">
-  <b>Congratulations!</b>
-  <br>
-  You are the
-  <img src="https://profile-counter.glitch.me/miskopo/count.svg?"  />
-  th visitor! <br>
-  However, there is no prize, I am afraid.
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/miskopo/miskopo/output/snake.svg" alt="Snake animation" />
-
-###
 
 <h3 align="left">🛠 Language and tools</h3>
 
